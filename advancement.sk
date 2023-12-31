@@ -1,0 +1,3 @@
+On Advancement Complete:
+	if player's advancements contains the advancement "adventure/arbalistic"
+		broadcast "1"
